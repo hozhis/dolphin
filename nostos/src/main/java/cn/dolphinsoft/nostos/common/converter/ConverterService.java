@@ -16,7 +16,7 @@ import cn.dolphinsoft.nostos.common.util.ApplicationContextUtil;
  * Class Name: ConverterService
  * Description: provides a conversion utility in converting between PO and DTO back and forth.
  * 
- * @author SC
+ * @author zhishenghong
  * 
  */
 @SuppressWarnings("rawtypes")

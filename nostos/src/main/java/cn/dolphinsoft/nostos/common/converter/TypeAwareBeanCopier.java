@@ -24,7 +24,7 @@ import org.objectweb.asm.Type;
  * Enhance {@link BeanCopier} to allow customized {@link net.sf.cglib.core.Converter} to visit
  * field level information via {@code context} param.
  * 
- * @author SC
+ * @author zhishenghong
  * 
  */
 public abstract class TypeAwareBeanCopier extends BeanCopier { // NOSONAR

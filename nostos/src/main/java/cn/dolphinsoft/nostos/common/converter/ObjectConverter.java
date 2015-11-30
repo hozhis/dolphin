@@ -3,7 +3,7 @@ package cn.dolphinsoft.nostos.common.converter;
 /**
  * Class Name: ObjectConverter Description: TODO
  * 
- * @author SC
+ * @author zhishenghong
  * 
  * @param <F>
  * @param <T>

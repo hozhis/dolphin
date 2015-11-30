@@ -14,7 +14,7 @@ import org.apache.commons.lang.time.DateUtils;
  * Class Name: DeepConverter
  * Description: customized {@link Converter}
  * 
- * @author SC
+ * @author zhishenghong
  * 
  */
 public class DeepConverter implements Converter {
